@@ -2,27 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chenyu&#39;s log</title>
-    <link>https://chenyuwang713.github.io/</link>
+    <link>https://chenyuwang.me/</link>
     <description>Recent content on Chenyu&#39;s log</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chenyuwang713.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chenyuwang.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global Capstone - Digital Twin Seminar Schedule</title>
-      <link>https://chenyuwang713.github.io/capstone_schedule_2021/</link>
+      <link>https://chenyuwang.me/capstone_schedule_2021/</link>
       <pubDate>Sat, 03 Jul 2021 01:01:04 -0400</pubDate>
       
-      <guid>https://chenyuwang713.github.io/capstone_schedule_2021/</guid>
+      <guid>https://chenyuwang.me/capstone_schedule_2021/</guid>
       <description>Fall 2021 # Date Topic / Selected Paper Presenter 1 07/14/2021 Digital Twin - From a Modeling Perspective Chenyu Wang 2 07/21/2021 Digital Twin - Application Cases Hong Geun Ji 3 07/28/2021 Digital Twin - Healthcare Applications Eun Jung Kim 4 08/04/2021 Unified Information Data model for Semantic Interoperability of Digital Twins Dayeon Choi 5 08/18/2021 Digital Twin - Reinforcement Learning Hong Geun Ji 6 08/25/2021 Multiple Ways to Think about Digital Twins - Methods Chenyu Wang 7 09/01/2021 Multiple Ways to Think about Digital Twins - Applications (Cont.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://chenyuwang713.github.io/about/</link>
+      <link>https://chenyuwang.me/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://chenyuwang713.github.io/about/</guid>
+      <guid>https://chenyuwang.me/about/</guid>
       <description>about_me</description>
     </item>
     
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://chenyuwang.me/teach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chenyuwang.me/teach/</guid>
+      <description>Overview of my teaching activities.</description>
+    </item>
     
   </channel>
 </rss>
