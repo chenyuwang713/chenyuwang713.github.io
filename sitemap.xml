@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://chenyuwang.me/</loc>
     <lastmod>2021-07-03T01:01:04-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/capstone_schedule_2021/</loc>
+    <loc>https://chenyuwang.me/capstone_schedule_2021/</loc>
     <lastmod>2021-07-03T01:01:04-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://chenyuwang.me/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://chenyuwang.me/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://chenyuwang.me/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/teach/</loc>
+    <loc>https://chenyuwang.me/teach/</loc>
   </url>
 </urlset>
