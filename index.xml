@@ -2,36 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chenyu&#39;s log</title>
-    <link>https://chenyuwang.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Chenyu&#39;s log</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://chenyuwang.me/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.139.2</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Jul 2021 01:01:04 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global Capstone - Digital Twin Seminar Schedule</title>
-      <link>https://chenyuwang.me/capstone_schedule_2021/</link>
+      <link>http://localhost:1313/capstone_schedule_2021/</link>
       <pubDate>Sat, 03 Jul 2021 01:01:04 -0400</pubDate>
-      
-      <guid>https://chenyuwang.me/capstone_schedule_2021/</guid>
-      <description>Fall 2021 # Date Topic / Selected Paper Presenter 1 07/14/2021 Digital Twin - From a Modeling Perspective Chenyu Wang 2 07/21/2021 Digital Twin - Application Cases Hong Geun Ji 3 07/28/2021 Digital Twin - Healthcare Applications Eun Jung Kim 4 08/04/2021 Unified Information Data model for Semantic Interoperability of Digital Twins Dayeon Choi 5 08/18/2021 Digital Twin - Reinforcement Learning Hong Geun Ji 6 08/25/2021 Multiple Ways to Think about Digital Twins - Methods Chenyu Wang 7 09/01/2021 Multiple Ways to Think about Digital Twins - Applications (Cont.</description>
+      <guid>http://localhost:1313/capstone_schedule_2021/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;fall-2021&#34;&gt;Fall 2021&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;#&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Date&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Topic / Selected Paper&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Presenter&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;07/14/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../assets/dt_group/Digital%20Twin%20-%20From%20a%20Modeling%20Perspective.pdf&#34;&gt;Digital Twin - From a Modeling Perspective&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Chenyu Wang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;07/21/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../assets/dt_group/Digital%20Twin%20-%20Application%20Cases.pdf&#34;&gt;Digital Twin - Application Cases&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hong Geun Ji&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;07/28/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../assets/dt_group/Digital%20Twin%20-%20Healthcare%20Applications.pdf&#34;&gt;Digital Twin - Healthcare Applications&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Eun Jung Kim&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;08/04/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../assets/dt_group/Unified%20Information%20Data%20model%20for%20Semantic%20Interoperability%20of%20Digital%20Twins.pdf&#34;&gt;Unified Information Data model for Semantic Interoperability of Digital Twins&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Dayeon Choi&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;08/18/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../assets/dt_group/Digital%20Twin%20-%20Reinforcement%20Learning.pdf&#34;&gt;Digital Twin - Reinforcement Learning&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hong Geun Ji&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;08/25/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../assets/dt_group/Multiple%20Ways%20to%20Think%20about%20Digital%20Twins.pdf&#34;&gt;Multiple Ways to Think about Digital Twins - Methods&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Chenyu Wang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;09/01/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a href=&#34;../assets/dt_group/Multiple%20Ways%20to%20Think%20about%20Digital%20Twins.pdf&#34;&gt;Multiple Ways to Think about Digital Twins - Applications (Cont.)&lt;/a&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Chenyu Wang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;09/08/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Privacy Leakage in Smart Devices Through Seemingly Innocuous Sensory Data (Overview)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Prof. Li&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;09/15/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Privacy Leakage in Smart Devices Through Seemingly Innocuous Sensory Data (Project)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Prof. Li&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;09/22/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Android Installation and Tutorial (&lt;a href=&#34;../assets/dt_group/week4app3%202.zip&#34;&gt;Code&lt;/a&gt;)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Akshita Maradapu Vera Venkata Sai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;09/29/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Open Discussion on Project&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10/13/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Privacy-leakage attack on the reinforcement learning&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hong Geun Ji&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10/27/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Discovering Human Places of Interest from Multimodal Mobile Phone Data&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Eun Jung Kim&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;14&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11/03/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Open Discussion on Project&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;15&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11/12/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Sub-project Presentation - Tap position inference with Flutter and Keras&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hong Geun Ji&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;16&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12/01/2021&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Open Discussion on Project&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;spring-2022&#34;&gt;Spring 2022&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;#&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Date&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Topic / Selected Paper&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Presenter&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;01/18/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Discussion on More Applications&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Chenyu Wang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;18&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;01/25/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Discussion on Integration&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Chenyu Wang&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;19&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;02/01/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Digital Twin Empowered Content Caching in Social-Aware Vehicular Edge Networks&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Akshita Maradapu Vera Venkata Sai&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;20&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;02/08/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;An Anomaly Detection Framework for Digital Twin Driven Cyber-Physical Systems&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hunmin Lee&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;21&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;02/15/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Cloud-based Digital Twinning for Structural Health Monitoring Using Deep Learning&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Archana BC&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;22&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;02/12/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Graph Learning for Cognitive Digital Twins in Manufacturing Systems&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Vinayak Renu Nair&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;23&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;03/01/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Digital twin oriented architecture for secure and QoS aware intelligent communications in industrial environments&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Mahalakshmi Annavarapu&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;24&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;03/08/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Twinbase: Open-Source Server Software for the Digital Twin Web&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Lakshman Pavan Kumar Bodapati&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;25&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;03/21/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Warehouse Digital Twin System with ML-Agent&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Hong Geun Ji&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;26&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;03/22/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Cooperative Ramp Merging Design and Field Implementation: A digital Twin Approach&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Pranay Bachu&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;26&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;03/29/2022&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Deep Reinforcement Learning for Flocking Motion of Multi-UAV systems: Learn from a Digital Twin&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Srikar Chowdavarapu&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>https://chenyuwang.me/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chenyuwang.me/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>about_me</description>
     </item>
-    
-    
     <item>
       <title>Teaching</title>
-      <link>https://chenyuwang.me/teach/</link>
+      <link>http://localhost:1313/teach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chenyuwang.me/teach/</guid>
+      <guid>http://localhost:1313/teach/</guid>
       <description>Overview of my teaching activities.</description>
     </item>
-    
   </channel>
 </rss>
