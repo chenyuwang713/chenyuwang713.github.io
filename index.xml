@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chenyu&#39;s log</title>
-    <link>https://chenyuwang.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Chenyu&#39;s log</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 03 Jul 2021 01:01:04 -0400</lastBuildDate>
-    <atom:link href="https://chenyuwang.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Global Capstone - Digital Twin Seminar Schedule</title>
-      <link>https://chenyuwang.me/capstone_schedule_2021/</link>
+      <link>http://localhost:1313/capstone_schedule_2021/</link>
       <pubDate>Sat, 03 Jul 2021 01:01:04 -0400</pubDate>
-      <guid>https://chenyuwang.me/capstone_schedule_2021/</guid>
+      <guid>http://localhost:1313/capstone_schedule_2021/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;fall-2021&#34;&gt;Fall 2021&lt;/h2&gt;
@@ -206,16 +206,16 @@
     </item>
     <item>
       <title>About</title>
-      <link>https://chenyuwang.me/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chenyuwang.me/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>about_me</description>
     </item>
     <item>
       <title>Teaching</title>
-      <link>https://chenyuwang.me/teach/</link>
+      <link>http://localhost:1313/teach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://chenyuwang.me/teach/</guid>
+      <guid>http://localhost:1313/teach/</guid>
       <description>Overview of my teaching activities.</description>
     </item>
   </channel>
